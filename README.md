@@ -96,7 +96,7 @@ main.dart
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone <repo_url>
+git clone https://github.com/Anshulverma33/task_manager.git
 ```
 2. Install dependencies:
 ```bash
